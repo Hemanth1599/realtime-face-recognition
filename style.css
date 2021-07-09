@@ -9,3 +9,7 @@
     font-size: 34px;
     font-family: 'Zen Tokyo Zoo', cursive;
 }
+.object, .accuracy{
+    font-size: 20px;
+    color: black;
+}
